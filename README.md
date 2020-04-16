@@ -1,2 +1,4 @@
 # playground
-Playground for different languages, patterns and more
+Playground for different languages, patterns and more.
+
+- [GO playground](golang/)
